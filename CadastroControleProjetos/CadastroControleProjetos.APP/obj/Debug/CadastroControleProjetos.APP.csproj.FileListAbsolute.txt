@@ -1,0 +1,10 @@
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\bin\Debug\CadastroControleProjetos.APP.exe.config
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\bin\Debug\CadastroControleProjetos.APP.exe
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\bin\Debug\CadastroControleProjetos.APP.pdb
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.Properties.Resources.resources
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.exe
+C:\Users\jorge\source\repos\CadastroControleProjetos\CadastroControleProjetos.APP\obj\Debug\CadastroControleProjetos.APP.pdb

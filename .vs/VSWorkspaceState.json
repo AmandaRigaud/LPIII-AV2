@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CadastroControleProjetos",
+    "\\CadastroControleProjetos\\CadastroControleProjetos.DAL",
+    "\\CadastroControleProjetos\\CadastroControleProjetos.DAL\\database"
   ],
+  "SelectedNode": "\\CadastroControleProjetos\\CadastroControleProjetos.DAL\\database\\database.mdf",
   "PreviewInSolutionExplorer": false
 }
