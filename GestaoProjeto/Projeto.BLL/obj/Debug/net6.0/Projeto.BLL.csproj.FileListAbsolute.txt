@@ -1,0 +1,12 @@
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.BLL.deps.json
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.BLL.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.BLL.pdb
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\refint\Projeto.BLL.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.pdb
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.BLL\obj\Debug\net6.0\ref\Projeto.BLL.dll

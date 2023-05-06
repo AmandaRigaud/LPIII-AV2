@@ -1,0 +1,14 @@
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\bin\Debug\net6.0\Projeto.DAL.deps.json
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\bin\Debug\net6.0\Projeto.DAL.runtimeconfig.json
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\bin\Debug\net6.0\Projeto.DAL.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\bin\Debug\net6.0\Projeto.DAL.pdb
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\refint\Projeto.DAL.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.pdb
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.genruntimeconfig.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.DAL\obj\Debug\net6.0\ref\Projeto.DAL.dll

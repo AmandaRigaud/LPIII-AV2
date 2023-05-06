@@ -1,0 +1,17 @@
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\bin\Debug\net6.0-windows\Projeto.APP.exe
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\bin\Debug\net6.0-windows\Projeto.APP.deps.json
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\bin\Debug\net6.0-windows\Projeto.APP.runtimeconfig.json
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\bin\Debug\net6.0-windows\Projeto.APP.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\bin\Debug\net6.0-windows\Projeto.APP.pdb
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.Form1.resources
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.csproj.GenerateResource.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.AssemblyInfo.cs
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\refint\Projeto.APP.dll
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.pdb
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\Projeto.APP.genruntimeconfig.cache
+C:\Users\jorge\source\repos\LPIII-AV2\GestaoProjeto\Projeto.APP\obj\Debug\net6.0-windows\ref\Projeto.APP.dll
