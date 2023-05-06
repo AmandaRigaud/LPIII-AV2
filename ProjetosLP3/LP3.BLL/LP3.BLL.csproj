@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LP3.DAL\LP3.DAL.csproj" />
+    <ProjectReference Include="..\LP3.MODEL\LP3.MODEL.csproj" />
+  </ItemGroup>
+
+</Project>
