@@ -10,3 +10,10 @@ C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.BLL\obj\Debug\net6.0
 C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.BLL\obj\Debug\net6.0\refint\Projeto.BLL.dll
 C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.pdb
 C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.BLL\obj\Debug\net6.0\ref\Projeto.BLL.dll
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.BLL.runtimeconfig.json
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.DAL.dll
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.MODEL.dll
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.DAL.pdb
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\bin\Debug\net6.0\Projeto.MODEL.pdb
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.csproj.CopyComplete
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.BLL\obj\Debug\net6.0\Projeto.BLL.genruntimeconfig.cache

@@ -12,3 +12,6 @@ C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.DAL\obj\Debug\net6.0
 C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.pdb
 C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.genruntimeconfig.cache
 C:\Users\jorge\source\repos\LPIII-AV2\GestorProjeto\Projeto.DAL\obj\Debug\net6.0\ref\Projeto.DAL.dll
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.DAL\bin\Debug\net6.0\Projeto.MODEL.dll
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.DAL\bin\Debug\net6.0\Projeto.MODEL.pdb
+C:\Users\jorge\Source\Repos\LPIII-AV2\GestorProjeto\Projeto.DAL\obj\Debug\net6.0\Projeto.DAL.csproj.CopyComplete
