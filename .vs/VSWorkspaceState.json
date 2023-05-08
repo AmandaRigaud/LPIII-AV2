@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GestorProjeto",
+    "\\GestorProjeto\\Projeto.DAL",
+    "\\GestorProjeto\\Projeto.DAL\\database",
+    "\\GestorProjeto\\Projeto.DAL\\DBContext",
+    "\\GestorProjeto\\Projeto.MODEL"
   ],
-  "SelectedNode": "\\GestorProjeto.sln",
+  "SelectedNode": "\\GestorProjeto\\Projeto.DAL\\database\\database.mdf",
   "PreviewInSolutionExplorer": false
 }
