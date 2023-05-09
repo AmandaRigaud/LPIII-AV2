@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zCNMNNS6G0C+BIBjMUn86S0l1wlgIAuWCz1Q32T+RSQq6lOOFtrAKOhADPkt65gtwkzAUq9Skd2R+DpryZmf/g==",
+  "dgSpecHash": "PunBp5Gtjapfup7+GQg4kVMX0b9WHUWt0G/ev8lDppuIXzZ277siNDW4nVhtHm47SiPSdSw5BCHlnRVsgARmjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj",
+  "projectFilePath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

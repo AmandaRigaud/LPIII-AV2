@@ -1,10 +1,12 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Projeto.DAL.DBContext;
-using System.Security.Cryptography.X509Certificates;using Projeto.MODEL;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Projeto.BLL
 {
     using Projeto.MODEL;
+    using System.Data.Entity;
+
     public class ProjetoRepository
     {
         public static void Add(Projeto _projeto)

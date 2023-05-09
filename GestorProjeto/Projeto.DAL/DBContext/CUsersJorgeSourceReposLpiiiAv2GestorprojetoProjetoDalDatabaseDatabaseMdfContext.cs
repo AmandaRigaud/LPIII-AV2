@@ -26,17 +26,16 @@ public partial class CUsersJorgeSourceReposLpiiiAv2GestorprojetoProjetoDalDataba
         {
             modelBuilder.Entity<Projeto>(entity =>
             {
-                entity.HasKey(e => e.Id).HasName("PK__Projetos__3214EC276D03498F");
 
                 entity.Property(e => e.Id)
                     .ValueGeneratedNever()
                     .HasColumnName("ID");
                 entity.Property(e => e.DataFim)
                     .HasColumnType("date")
-                    .HasColumnName("DATA_FIM");
+                    .HasColumnName("DATAFIM");
                 entity.Property(e => e.DataInicio)
                     .HasColumnType("date")
-                    .HasColumnName("DATA_INICIO");
+                    .HasColumnName("DATAINICIO");
                 entity.Property(e => e.Gerente)
                     .HasColumnType("text")
                     .HasColumnName("GERENTE");
