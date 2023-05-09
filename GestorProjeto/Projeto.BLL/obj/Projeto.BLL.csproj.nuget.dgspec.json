@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj": {}
+    "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj": {
+    "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj",
         "projectName": "Projeto.BLL",
-        "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj": {
-                "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj"
+              "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj"
               },
-              "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
-                "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj"
+              "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj": {
+    "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj",
         "projectName": "Projeto.DAL",
-        "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\Projeto.DAL.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
-                "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj"
+              "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
+    "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj",
         "projectName": "Projeto.MODEL",
-        "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
