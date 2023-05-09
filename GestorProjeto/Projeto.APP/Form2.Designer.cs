@@ -37,12 +37,14 @@
             button3 = new Button();
             label1 = new Label();
             label3 = new Label();
-            label4 = new Label();
             label5 = new Label();
             label6 = new Label();
             label7 = new Label();
             label8 = new Label();
             label9 = new Label();
+            comboBox1 = new ComboBox();
+            projetoRepositoryBindingSource = new BindingSource(components);
+            ((System.ComponentModel.ISupportInitialize)projetoRepositoryBindingSource).BeginInit();
             SuspendLayout();
             // 
             // button1
@@ -121,16 +123,6 @@
             label3.TabIndex = 9;
             label3.Text = "gerente";
             // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.BackColor = Color.AliceBlue;
-            label4.Location = new Point(190, 154);
-            label4.Name = "label4";
-            label4.Size = new Size(49, 20);
-            label4.TabIndex = 10;
-            label4.Text = "Status";
-            // 
             // label5
             // 
             label5.AutoSize = true;
@@ -181,18 +173,33 @@
             label9.TabIndex = 15;
             label9.Text = "Data Fim";
             // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "EM ANDAMENTO", "CONCLUIDO", "ABORTADO" });
+            comboBox1.Location = new Point(190, 158);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(151, 28);
+            comboBox1.TabIndex = 16;
+            comboBox1.Text = "Status";
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            // 
+            // projetoRepositoryBindingSource
+            // 
+            projetoRepositoryBindingSource.DataSource = typeof(BLL.ProjetoRepository);
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(800, 450);
+            Controls.Add(comboBox1);
             Controls.Add(label9);
             Controls.Add(label8);
             Controls.Add(label7);
             Controls.Add(label6);
             Controls.Add(label5);
-            Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label1);
             Controls.Add(button3);
@@ -202,6 +209,7 @@
             Controls.Add(button1);
             Name = "Form2";
             Text = "Form2";
+            ((System.ComponentModel.ISupportInitialize)projetoRepositoryBindingSource).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -215,11 +223,12 @@
         private Button button3;
         private Label label1;
         private Label label3;
-        private Label label4;
         private Label label5;
         private Label label6;
         private Label label7;
         private Label label8;
         private Label label9;
+        private ComboBox comboBox1;
+        private BindingSource projetoRepositoryBindingSource;
     }
 }
