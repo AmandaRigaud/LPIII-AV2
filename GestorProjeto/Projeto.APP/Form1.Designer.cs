@@ -41,6 +41,7 @@
             label5 = new Label();
             status = new ComboBox();
             label6 = new Label();
+            label7 = new Label();
             SuspendLayout();
             // 
             // button1
@@ -161,12 +162,22 @@
             label6.TabIndex = 14;
             label6.Text = "Resumo do Projeto";
             // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(379, 48);
+            label7.Name = "label7";
+            label7.Size = new Size(141, 20);
+            label7.TabIndex = 15;
+            label7.Text = "Cadastro de Projeto";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(914, 600);
+            Controls.Add(label7);
             Controls.Add(label6);
             Controls.Add(status);
             Controls.Add(label5);
@@ -204,5 +215,6 @@
         private Label label5;
         private ComboBox status;
         private Label label6;
+        private Label label7;
     }
 }

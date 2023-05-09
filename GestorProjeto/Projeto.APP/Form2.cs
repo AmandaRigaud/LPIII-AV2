@@ -16,6 +16,8 @@ namespace Projeto.APP
         public Form2()
         {
             InitializeComponent();
+            button3.Hide();
+            button4.Hide();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -23,39 +25,72 @@ namespace Projeto.APP
             Form1 form = new Form1();
             form.Show();
         }
+        int p=0;
         private void button2_Click(object sender, EventArgs e)
         {
-            var texto = "";
-
             var list = ProjetoRepository.GetAll();
-            var linha = "Nome do Projeto | Gerente | Resumo | STATUS | Data inicio | Data Fim\n\n ";
 
-            foreach (var item in list)
-            {
-                texto = "\n" + item.Nome + " | " + item.Gerente + " | " + item.Resumo + " | " + item.Status + " | " + item.DataInicio.Value.ToShortDateString() + " | " + item.DataFim.Value.ToShortDateString() + "\n";
-                linha = linha + texto;
-                label1.Text = linha;
-            }
+            var item = list.FirstOrDefault();
+            p = 0;
+            button4.Hide();
+            button3.Show();
+
+            label1.Text = item.Nome;
+            label3.Text = item.Gerente;
+            label4.Text = item.Status;
+            label5.Text = item.Resumo;
+            label8.Text = item.DataInicio.Value.ToShortDateString();
+            label9.Text = item.DataFim.Value.ToShortDateString();
+
         }
 
-        bool isClicked = false;
-        private void label1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            if (!isClicked)
+            var list = ProjetoRepository.GetAll();
+            if (p <= list.Count-2)
             {
-                var texto = "";
+                p = p + 1;
+                var item = list[p];
 
-                var list = ProjetoRepository.GetAll();
-                var linha = "Nome do Projeto | Gerente | Resumo | STATUS | Data inicio | Data Fim\n\n";
-
-                foreach (var item in list)
+                label1.Text = item.Nome;
+                label3.Text = item.Gerente;
+                label4.Text = item.Status;
+                label5.Text = item.Resumo;
+                label8.Text = item.DataInicio.Value.ToShortDateString();
+                label9.Text = item.DataFim.Value.ToShortDateString();
+                button4.Show();
+                if (p == list.Count()-1)
                 {
-                    texto = "\n" + item.Nome + " | " + item.Gerente + " | " + item.Resumo + " | " + item.Status + " | " + item.DataInicio.Value.ToShortDateString() + " | " + item.DataFim.Value.ToShortDateString() + "\n";
-                    linha = linha + texto;
-                    label1.Text = linha;
+                    button3.Hide();
                 }
             }
-            isClicked = true;
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var list = ProjetoRepository.GetAll();
+            if (p > 0)
+            {
+                p = p - 1;
+                var item = list[p];
+
+                label1.Text = item.Nome;
+                label3.Text = item.Gerente;
+                label4.Text = item.Status;
+                label5.Text = item.Resumo;
+                label8.Text = item.DataInicio.Value.ToShortDateString();
+                label9.Text = item.DataFim.Value.ToShortDateString();
+                if(p == 0)
+                {
+                    button4.Hide();
+                }
+            }
+            else
+            {
+                button4.Hide();
+                button3.Show();
+            }
 
         }
     }
