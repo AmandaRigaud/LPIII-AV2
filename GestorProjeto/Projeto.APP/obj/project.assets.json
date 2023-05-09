@@ -3722,9 +3722,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\Projeto.APP.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\Projeto.APP.csproj",
       "projectName": "Projeto.APP",
-      "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\Projeto.APP.csproj",
+      "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\Projeto.APP.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\obj\\",
       "projectStyle": "PackageReference",
@@ -3743,11 +3743,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj": {
-              "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj"
+            "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj": {
+              "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.BLL\\Projeto.BLL.csproj"
             },
-            "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
-              "projectPath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj"
+            "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj": {
+              "projectPath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.MODEL\\Projeto.MODEL.csproj"
             }
           }
         }

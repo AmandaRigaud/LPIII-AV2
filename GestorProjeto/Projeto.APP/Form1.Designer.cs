@@ -41,7 +41,6 @@
             label5 = new Label();
             status = new ComboBox();
             label6 = new Label();
-            button2 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -162,24 +161,12 @@
             label6.TabIndex = 14;
             label6.Text = "Resumo do Projeto";
             // 
-            // button2
-            // 
-            button2.Location = new Point(776, 28);
-            button2.Margin = new Padding(3, 4, 3, 4);
-            button2.Name = "button2";
-            button2.Size = new Size(86, 31);
-            button2.TabIndex = 15;
-            button2.Text = "Visualizar Projetos Cadastrados";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(914, 600);
-            Controls.Add(button2);
             Controls.Add(label6);
             Controls.Add(status);
             Controls.Add(label5);
@@ -217,6 +204,5 @@
         private Label label5;
         private ComboBox status;
         private Label label6;
-        private Button button2;
     }
 }

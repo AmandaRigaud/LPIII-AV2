@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJaqEMwWz7SorDFT6MDcSNg0+SMY59VJwCjlw1dTaT4L+1593jIoSQp6avdfcQKIvRey4gDdMi1OumIRylwkMw==",
+  "dgSpecHash": "4wG/sEpYiEswnX8xjO284wwXn1EqWdEdvZNz+CMbJ6lc2KyDXIurY1bhpMNwGhUHCnoRC7bZsfGRFW6Egda2PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jorge\\source\\repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\Projeto.APP.csproj",
+  "projectFilePath": "C:\\Users\\jorge\\Source\\Repos\\LPIII-AV2\\GestorProjeto\\Projeto.APP\\Projeto.APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\jorge\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
